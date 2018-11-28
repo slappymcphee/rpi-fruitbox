@@ -11,7 +11,7 @@ Installation is as follows (Installation documentation is WIP):
   
   sudo apt-get install libsm-dev libxcursor-dev libxi-dev libxinerama-dev libxrandr-dev libxpm-dev libvorbis-dev libtheora-dev
   
-  wget https://github.com/slappymcphee/xu4-thera-fruitbox.git
+  git clone --depth 1 https://github.com/slappymcphee/xu4-thera-fruitbox.git
   
   unzip master
   
