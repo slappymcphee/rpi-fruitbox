@@ -13,9 +13,7 @@ Installation is as follows (Installation documentation is WIP):
   
   git clone --depth 1 https://github.com/slappymcphee/xu4-thera-fruitbox.git
   
-  unzip master
-  
-  cd rpi-fruitbox-master
+  cd xu4-thera-fruitbox
   
   chmod +x ./fruitbox                  (if you are using Raspbian Stretch)
 
