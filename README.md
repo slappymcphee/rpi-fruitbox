@@ -1,9 +1,9 @@
-# rpi-fruitbox
-Raspberry Pi fruitbox
+# XU4-TheRA-fruitbox
+TheRA XU4 fruitbox
 
-fruitbox is a customisable MP3 player for the Raspberry Pi, allowing the user to create the look and feel of classic jukeboxes.
+fruitbox is a customisable MP3 player for the Raspberry Pi however we are porting it to the Odroid XU4 TheRA build, allowing the user to create the look and feel of classic jukeboxes.
 
-Installation is as follows:
+Installation is as follows (Installation documentation is WIP):
 
 1. It is recommended to start from a fresh OS install (Raspbian Stretch Lite 2018-03-13 release)
 2. Increase GPU memory to (at least) 256 (sudo raspi-config -> Advanced Options -> Memory Split)
